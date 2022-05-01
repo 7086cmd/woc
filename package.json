@@ -1,0 +1,29 @@
+{
+  "name": "woc",
+  "version": "0.1.0",
+  "description": "Wu's Oprated Cryption",
+  "scripts": {
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:serve": "vitepress serve docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/7086cmd/woc.git"
+  },
+  "keywords": [
+    "encryption"
+  ],
+  "author": "7086cmd",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/7086cmd/woc/issues"
+  },
+  "homepage": "https://github.com/7086cmd/woc#readme",
+  "devDependencies": {
+    "@vue/theme": "^1.0.2",
+    "markdownlint": "^0.25.1",
+    "vitepress": "^0.22.3",
+    "vue": "^3.2.33"
+  }
+}
